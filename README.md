@@ -17,6 +17,4 @@
 
 ## 📝 Curriculum Vitae
 
-* [Mira el CV completo](https://jlcareglio.github.io/)
-* Descarga como PDF
-* Descarga como Markdown
+[Mira el CV completo](https://jlcareglio.github.io/)
