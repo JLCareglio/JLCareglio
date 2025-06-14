@@ -1,16 +1,20 @@
-### Hi there 👋
+# [Jesús Lautaro Careglio Albornoz](https://jlcareglio.github.io/) <br> [Web Full Stack](https://jlcareglio.github.io/)
 
-<!--
-**JLCareglio/JLCareglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="float:right;padding:6px">
+  📧 jlcareglioalbornoz@gmail.com <br>
+  🌎 Argentina 🇦🇷 <br>
+  <a href="https://github.com/jlcareglio" target="_blank">GitHub</a> | 
+  <a href="https://linkedin.com/in/jlcareglio" target="_blank">LinkedIn</a> | 
+  <a href="https://www.freecodecamp.org/JLCareglio" target="_blank">FreeCodeCamp</a>
+</span>
 
-Here are some ideas to get you started:
+## 👨‍💻 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes: JavaScript, TypeScript, CSS, HTML, SQL, Python, C#, PHP, Java, Kotlin, Shell Script
+- Frameworks: Node.js, React.js, Redux, Astro, Svelte, Express, Next.js, GraphQL, SCSS, Tailwind, Bootstrap
+- Bases de datos: PostgreSQL, MySQL, MongoDB - ORMs y ODMs: Mongoose, Prisma
+- Otras habilidades: Terminal Linux, Mobile Development, Firebase, Vercel, Testing, Scrum, REST, Figma, Three.js, Data Scraping, Unity3D, Unreal, Godot, AndroidStudio, AI, MPC, NLWeb
+
+## 📝 Curriculum Vitae
+
+[Mira el CV completo](https://jlcareglio.github.io/)
